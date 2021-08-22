@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/data
+*.js
+*.zip
+package-lock.json
+yarn.lock
+cache.json
+favUser.json
